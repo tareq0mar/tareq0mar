@@ -9,6 +9,5 @@ I am a cybersecurity major passionate about network defense and ethical hacking.
 
 ***
 
-### 🛠️ Languages and Tools
-
+## 🛠️ Languages and Tools 
 Python | Java | Linux | Wireshark | Burp Suite | Nmap 
